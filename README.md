@@ -36,8 +36,20 @@ Inventory planning based on product performance and seasonal trends
 Expansion strategy through geographic revenue analysis
 
 ## 📁 Files Structure
-<pre><code>📁 Files Structure project-root/ ├── data/ │ └── online_retail_II.xlsx # Original dataset (cleaned in SQL) ├── sql/ │ ├── cleaning_queries.sql # SQL for cleaning nulls, filtering cancellations │ └── aggregation_queries.sql # Revenue, top customers/products, geo sales ├── tableau/ │ └── ecommerce_dashboard.twbx # Packaged Tableau workbook ├── screenshots/ │ ├── dashboard1_sales_overview.png │ ├── dashboard2_top_customers.png │ ├── dashboard3_top_products.png │ └── dashboard4_geo_revenue.png ├── README.md </code></pre>
-
+```project-root/
+```├── data/
+│ └── online_retail_II.xlsx # Original dataset (cleaned in SQL)
+├── sql/
+│ ├── cleaning_queries.sql # SQL for cleaning nulls, filtering cancellations
+│ └── aggregation_queries.sql # Revenue, top customers/products, geo sales
+├── tableau/
+│ └── ecommerce_dashboard.twbx # Packaged Tableau workbook
+├── screenshots/
+│ ├── dashboard1_sales_overview.png
+│ ├── dashboard2_top_customers.png
+│ ├── dashboard3_top_products.png
+│ └── dashboard4_geo_revenue.png
+├── README.md
 ## 🔗 Live Dashboard
 https://public.tableau.com/views/E-Commerce_17607302116140/Dashboard4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
