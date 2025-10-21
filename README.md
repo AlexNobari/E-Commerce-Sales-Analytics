@@ -16,6 +16,7 @@ Built an end-to-end analytics solution analyzing 500K+ transactions. Identified 
 <img width="1998" height="1598" alt="Sales Overview (Monthly Revenue Trends)" src="https://github.com/user-attachments/assets/f74a1329-1ca8-42fa-8813-dd0d59c3bf81" />
 
 <img width="1998" height="1598" alt="Top 10 Customers by Revenue" src="https://github.com/user-attachments/assets/8ba4517f-44ad-40e0-9d9f-bdcadbf8e939" /><img width="1998" height="1598" alt="Top Products by Sales" src="https://github.com/user-attachments/assets/ca66251d-03ad-42d2-85df-c190fbe2dbed" />
+<img width="1998" height="1598" alt="Dashboard 4" src="https://github.com/user-attachments/assets/4d5de035-4bff-47fb-acbe-6b17af813cc9" />
 
 
 ## 🧠 Business Impact
